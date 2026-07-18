@@ -4,7 +4,7 @@ function Food(){
     const food2 = "Smoked Chicken";
     return (
    <ul>
-    <li>Deez</li>
+    <li>kono dio da</li>
     <li>{food1}</li>
     <li>{food2}</li>    
    </ul>
