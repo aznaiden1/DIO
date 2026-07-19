@@ -7,8 +7,8 @@ function Header() {
         <ul>
           <li><a href="#konodioda">Home</a></li>
           <li><a href="#konoadamda">About</a></li>
-          <li><a href="#contact">Contact</a></li>
-          <li><a href="#services">Services</a></li>
+          <li><a href="#Oraoraoraaaaa">Contact</a></li>
+          <li><a href="#tokiwa ugokides">Services</a></li>
         </ul>
       </nav>
       <hr></hr>
